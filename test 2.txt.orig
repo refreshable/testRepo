@@ -1,5 +1,7 @@
 This is test 1
+<<<<<<< HEAD
 
 I made some (conflicting maybe?) changes
-
+=======
 This is the correct way!
+>>>>>>> 9a799a3eb9b32d41814146d850b0fc97f6132d3d
